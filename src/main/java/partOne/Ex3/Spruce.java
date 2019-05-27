@@ -10,12 +10,3 @@ public class Spruce {
         System.out.println("    *");
     }
 }
-/*
-Create a program that prints the following:
-                     *
-                    ***
-                   *****
-                  *******
-                 *********
-                     *
-*/
